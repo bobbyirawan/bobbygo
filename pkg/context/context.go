@@ -1,9 +1,8 @@
 package context
 
 import (
-	"bobbygo/pkg/errors"
-	"bobbygo/pkg/session"
-
+	"github.com/bobbygo/pkg/errors"
+	"github.com/bobbygo/pkg/session"
 	"github.com/labstack/echo/v4"
 )
 

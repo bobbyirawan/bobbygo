@@ -1,10 +1,10 @@
 package session
 
 import (
-	"bobbygo/pkg/crypto"
-	"bobbygo/pkg/errors"
 	"time"
 
+	"github.com/bobbygo/pkg/crypto"
+	"github.com/bobbygo/pkg/errors"
 	"github.com/go-playground/validator/v10"
 )
 
